@@ -331,4 +331,30 @@ details[open] {
       padding: 1.5px 3px;
       font-size: 14px;
     }
+    
+    /* Common styles for all buttons */
+.btn {
+  border-radius: 15px;
+  border: 1px solid #000;
+  padding: 15px 15px;
+  font-size: 14px;
+}
+
+.btn-red {
+  background-color: #FF0000;
+  color: #fff; /* Text color for better contrast */
+}
+
+/* Green button */
+.btn-green {
+  background-color: #00FF00;
+  color: #fff; /* Text color for better contrast */
+}
+
+/* Blue button */
+.btn-blue {
+  background-color: #0000FF;
+  color: #fff; /* Text color for better contrast */
+}
+
 
