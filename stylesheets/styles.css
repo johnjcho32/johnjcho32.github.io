@@ -324,11 +324,11 @@ details[open] {
   }
 }
 
-.btn{
-border-radius:15px/15px;
-border:1px solid #000;
-background:#fff;
-padding: 15px 15px;
-font-size:14px;
-}
+    .btn {
+      border-radius: 15px;
+      border: 1px solid #000;
+      background: #fff;
+      padding: 1.5px 3px;
+      font-size: 14px;
+    }
 
