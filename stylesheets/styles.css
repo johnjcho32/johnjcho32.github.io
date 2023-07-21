@@ -323,3 +323,12 @@ details[open] {
     }
   }
 }
+
+.btn{
+border-radius:25%/100%;
+border:1px solid #000;
+background:#fff;
+padding: 8px 15px;
+font-size:14px;
+}
+
