@@ -335,7 +335,7 @@ details[open] {
     /* Common styles for all buttons */
 .btn {
       border-radius: 15px;
-      border: 1px solid #000;
+      border: none;
       background: #fff;
       padding: 1.5px 3px;
       font-size: 14px;
