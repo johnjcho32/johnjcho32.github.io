@@ -341,35 +341,20 @@ details[open] {
       font-size: 14px;
 }
 
-.mygreen{
-  background-color: #008000;
-  color:#008000;
-}
-
-.myred{
-  background-color: #FF0000;
-  color:#FF0000;
-}
-
-.myblue{
-  background-color: #005cf5;
-  color:#005cf5;
-}
-
 .btn-red {
-  .myred;
+  background-color: #FF0000;
   color: #fff; /* Text color for better contrast */
 }
 
 /* Green button */
 .btn-green {
-  .mygreen;
+  background-color: #008000;
   color: #fff; /* Text color for better contrast */
 }
 
 /* Blue button */
 .btn-blue {
-  .myblue;
+  background-color: #0000FF;
   color: #fff; /* Text color for better contrast */
 }
 
