@@ -277,7 +277,7 @@ footer {
 .topnav {
   background-color: #fff;
   overflow: hidden;
-  
+  border-bottom: 5px solid black;
 
 }
 
