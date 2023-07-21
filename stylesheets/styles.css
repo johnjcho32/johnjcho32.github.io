@@ -294,14 +294,14 @@ footer {
 .topnav a:hover {
   background-color: #A51C30;
   color: white;
-  border-bottom: 3px solid black;
+  border-bottom: 1px solid black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #A51C30;
   color: white;
-  border-bottom: 3px solid black;
+  border-bottom: 1px solid black;
 
 }
 
@@ -328,7 +328,7 @@ details[open] {
 border-radius:2%/2%;
 border:1px solid #000;
 background:#fff;
-padding: 2px 2px;
+padding: 0px;
 font-size:14px;
 }
 
