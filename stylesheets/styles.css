@@ -325,7 +325,7 @@ details[open] {
 }
 
 .btn{
-border-radius:10%/10%;
+border-radius:15px/15px;
 border:1px solid #000;
 background:#fff;
 padding: 5px 5px;
