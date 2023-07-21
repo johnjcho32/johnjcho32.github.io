@@ -277,6 +277,8 @@ footer {
 .topnav {
   background-color: #fff;
   overflow: hidden;
+  
+
 }
 
 /* Style the links inside the navigation bar */
@@ -292,12 +294,15 @@ footer {
 .topnav a:hover {
   background-color: #A51C30;
   color: white;
+  border-bottom: 3px solid black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #A51C30;
   color: white;
+  border-bottom: 3px solid black;
+
 }
 
 details[open] {
